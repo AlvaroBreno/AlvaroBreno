@@ -1,12 +1,8 @@
 <h1 align="center"> Hi Guys, who's going? 👋 😁 💻</h1>
 
 ## <p>On reach me</p>
-![Twitch](https://[img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://www.twitch.tv/veiiochico))
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Twitter](https://twitter.com/_chicoveio))
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://www.instagram.com/alvarobreno/)
-![Facebook](https://www.facebook.com/alvaro.breno/) 
+![Twitter]([https://<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_chicoveio)) 
+
 ## <p>Knowleges and IDE's work</p>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
