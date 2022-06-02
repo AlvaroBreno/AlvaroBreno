@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on Instagram @alvarobreno LinkedIn AlvaroBreno Twitch.tv VeiioChico Twitter @_chicoveio
 
 -->
-##<p>On reach me</p>
+## <p>On reach me</p>
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
