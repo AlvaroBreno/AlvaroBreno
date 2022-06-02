@@ -1,7 +1,7 @@
 <h1 align="center"> Hi Guys, who's going? 👋 😁 💻</h1>
 
 ## <p>On reach me</p>
-(https://<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_chicoveio)) 
+
 
 ## <p>Knowleges and IDE's work</p>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
