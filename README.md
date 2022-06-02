@@ -1,23 +1,12 @@
 <h1 align="center"> Hi Guys, who's going? 👋 😁 💻</h1>
 
-<!--
-**AlvaroBreno/AlvaroBreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Think Technology 
-- 🌱 I’m currently learning Development programming
-- 💬 Ask me about Dev, Agile Strategy, Games
-- 📫 How to reach me: on Instagram @alvarobreno LinkedIn AlvaroBreno Twitch.tv VeiioChico Twitter @_chicoveio
-
--->
 ## <p>On reach me</p>
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Twitch](https://[img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white](https://www.twitch.tv/veiiochico))
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://[img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white](https://twitter.com/_chicoveio))
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
+![Instagram](https://[img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/alvarobreno/))
+![Facebook](https://[img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/alvaro.breno/)) 
 ## <p>Knowleges and IDE's work</p>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
