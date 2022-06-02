@@ -1,5 +1,5 @@
 <h1 align="center"> Hi Guys, who's going? 👋 😁 💻</h1>
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AlvaroBreno)
+
 ## <p>On reach me</p>
 ![Twitch](https://[img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://www.twitch.tv/veiiochico))
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
