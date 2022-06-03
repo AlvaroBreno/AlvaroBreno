@@ -1,4 +1,5 @@
 <h1 align="center"> Hi Guys, how's going? 👋 😁 💻</h1>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AlvaroBreno)
 
 ## <p>Reach me</p>
 [<img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/veiiochico)
