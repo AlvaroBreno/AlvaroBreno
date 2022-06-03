@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/veiiochico)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_chicoveio)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/%C3%A1lvaro-breno-prud%C3%AAncio-851813127)
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](facebook.com/alvaro.breno/)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](facebook.com/alvarobreno)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/alvarobreno)
 
 ## <p>Knowleges and IDE's work</p>
